@@ -3,7 +3,6 @@
 # Now, whitelist anything that's a directory
 !*/
 # And all the file types you're interested in.
-!.gitignore
 !**/task/src/**/*
 **/task/src/test/
 
