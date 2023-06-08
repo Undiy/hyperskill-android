@@ -5,4 +5,8 @@
 # And all the file types you're interested in.
 !**/task/src/**/*
 **/task/src/test/
+**/task/build/intermediates/
+**/task/build/outputs/
+!*.txt
+!*.gradle
 
