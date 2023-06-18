@@ -1,0 +1,2 @@
+/home/undiy/git/hyperskill-android/Secret Diary/task/src/test/java/org/hyperskill/secretdiary/Stage1UnitTest.kt
+/home/undiy/git/hyperskill-android/Secret Diary/task/src/test/java/org/hyperskill/secretdiary/internals/AbstractUnitTest.kt
